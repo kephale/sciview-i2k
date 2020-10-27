@@ -24,7 +24,7 @@ Sciview is an interactive visualization tool for exploring and processing scient
 
 ## Technical requirements
 
-Sciview works on Windows, Linux, and MacOS. Sciview has been tested and validated on many hardware configurations. The most important requirement is a relatively modern graphics card. A list of tested graphics cards is available at: https://github.com/scenerygraphics/scenery under the listing "Graphics cards". We encourage attendees to test sciview on their computer 1-2 days before the workshop by following these instructions: https://github.com/kephale/sciview-i2k/i2k_workshop_testing_instructions.md. If you have trouble, then please reach out to the workshop tutors: Kyle Harrington (kyle.harrington@mdc-berlin.de) and Ulrik Guenther (ulrik.guenther@hzdr.de). We have a strong desire to ensure that sciview works for as many users as possible and would appreciate any information about troubles that you may have.
+Sciview works on Windows, Linux, and MacOS. Sciview has been tested and validated on many hardware configurations. The most important requirement is a relatively modern graphics card. A list of tested graphics cards is available at: https://github.com/scenerygraphics/scenery#gpu-compatibility under the listing "GPU compatibility". We encourage attendees to test sciview on their computer 1-2 days before the workshop by following these instructions: https://github.com/kephale/sciview-i2k/blob/main/i2k_workshop_testing_instructions.md. If you have trouble, then please reach out to the workshop tutors: Kyle Harrington (kyle.harrington@mdc-berlin.de) and Ulrik Guenther (ulrik.guenther@hzdr.de). We have a strong desire to ensure that sciview works for as many users as possible and would appreciate any information about troubles that you may have.
 
 In the last 30-60 minutes fo the tutorial, we will demonstrate virtual reality (VR) support with an HTC Vive. Following along with this section requires that you have VR equipment. Background will be provided for working with new VR and AR hardware. If you are interested in following along with this section, then we strongly recommend that you reach out to Ulrik Guenther prior to the workshop about testing your VR setup.
 
@@ -42,5 +42,5 @@ In the last 30-60 minutes fo the tutorial, we will demonstrate virtual reality (
 
 ## Workshop times
 
-Morning: 9a-12p CET
-Afternoon/Evening: 3p-6p CET
+- Morning: 9a-12p CET
+- Afternoon/Evening: 3p-6p CET
