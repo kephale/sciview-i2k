@@ -6,17 +6,17 @@ Interactive 3D and virtual reality visualization for scientific images with sciv
 
 ## Tutors
 
-Kyle Harrington
-Group Leader, Image Data Analysis
-Max Delbrueck Center for Molecular Medicine
-Berlin, Germany
-kyle.harrington@mdc-berlin.de
+Kyle Harrington  
+Group Leader, Image Data Analysis  
+Max Delbrueck Center for Molecular Medicine  
+Berlin, Germany  
+kyle.harrington@mdc-berlin.de  
 
-Ulrik Guenther
-Center for Advanced Systems Understanding Goerlitz
-Center for Systems Biology Dresden
-Dresden, Germany
-ulrik.guenther@hzdr.de
+Ulrik Guenther  
+Center for Advanced Systems Understanding Goerlitz  
+Center for Systems Biology Dresden  
+Dresden, Germany  
+ulrik.guenther@hzdr.de  
 
 ## Abstract
 
