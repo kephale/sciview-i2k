@@ -2,12 +2,17 @@
 
 import net.imglib2.img.array.ArrayImgs as ArrayImgs
 import bdv.util.BdvFunctions as BdvFunctions
+
+import org.janelia.saalfeldlab.n5.imglib2.N5Utils as N5Utils
+import org.janelia.saalfeldlab.n5.N5FSWriter as N5FSWriter
+import org.janelia.saalfeldlab.n5.GzipCompression as GzipCompression
+
 import random as random
 
 w = 50
 h = w
 d = w
-tmax = 10
+tmax = 25
 
 num_spots = 10
 spotR = 3
@@ -62,5 +67,8 @@ for spot in spots:
 
 print('done')
 BdvFunctions.show(img, "test")
-
 sv.addVolume(img)
+
+n5filename = 'test.n5'
+n5w = N5FSWriter(n5filename)
+N5Utils.save(img, n5w, 'volume', [w, h, d, tmax], GzipCompression())

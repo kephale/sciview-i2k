@@ -33,18 +33,10 @@
 </details>
 
 <details>
-  <summary>Loading custom point clouds</summary>
-
-  - Multiple ways to visualize point clouds
-  - Default point cloud readers
-  - Custom point cloud readers
-</details>
-
-<details>
   <summary>Mesh processing and analysis</summary>
 
-  - Isosurface extraction
-  - Voxelization
+  - Isosurface extraction  
+  - Voxelization  
 </details>
 
 <details>
@@ -76,5 +68,14 @@
 
 <details>
   <summary>Virtual and augmented reality</summary>
+
+</details>
+
+<details>
+  <summary>Survey</summary>
+
+  - What you wanted to learn?
+  - Do you want us to update you when features are added?
+  - What features did you wish were available?
 
 </details>
